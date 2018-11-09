@@ -7,4 +7,4 @@ function cardAt(index) {
 }
 let input = prompt('Input between 0 - 52 to get their number card')
 let output = cardAt(input)
-alert(`cardAt= (${input}) ${output}`)
+alert(`cardAt (${input}) =${output}`)
